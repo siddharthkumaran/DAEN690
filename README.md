@@ -13,7 +13,7 @@ python3 demo.py
 ```
 
 This run amount can be set as a vairable. 
-```http
+```
 python3 main35.py
 ```
 This run is using the 4.0 model
